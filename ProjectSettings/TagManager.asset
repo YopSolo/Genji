@@ -8,6 +8,8 @@ TagManager:
   - Wall
   - Platform
   - Shuriken
+  - SoundManager
+  - MusicManager
   layers:
   - Default
   - TransparentFX
