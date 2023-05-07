@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - CinemachineTarget
+  - Wall
+  - Platform
+  - Shuriken
+  - SoundManager
+  - MusicManager
   layers:
   - Default
   - TransparentFX
